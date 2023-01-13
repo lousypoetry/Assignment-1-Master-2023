@@ -1,10 +1,10 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01D9272B.69157070"
+Content-Type: multipart/related; boundary="----=_NextPart_01D9272D.D52FEE00"
 
 This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
 
-------=_NextPart_01D9272B.69157070
-Content-Location: file:///C:/D0C89D18/index.htm
+------=_NextPart_01D9272D.D52FEE00
+Content-Location: file:///C:/20C89D18/new-index.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="windows-1252"
 
@@ -20,8 +20,8 @@ xmlns=3D"http://www.w3.org/TR/REC-html40">
 <meta name=3DProgId content=3DWord.Document>
 <meta name=3DGenerator content=3D"Microsoft Word 15">
 <meta name=3DOriginator content=3D"Microsoft Word 15">
-<link rel=3DFile-List href=3D"index_files/filelist.xml">
-<link rel=3DEdit-Time-Data href=3D"index_files/editdata.mso">
+<link rel=3DFile-List href=3D"new-index_files/filelist.xml">
+<link rel=3DEdit-Time-Data href=3D"new-index_files/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -37,24 +37,25 @@ w\:* {behavior:url(#default#VML);}
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Robert Cartwright</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>355</o:TotalTime>
+  <o:TotalTime>360</o:TotalTime>
   <o:LastPrinted>2022-01-22T22:13:00Z</o:LastPrinted>
-  <o:Created>2023-01-13T14:45:00Z</o:Created>
-  <o:LastSaved>2023-01-13T14:45:00Z</o:LastSaved>
+  <o:Created>2023-01-13T15:02:00Z</o:Created>
+  <o:LastSaved>2023-01-13T15:02:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>2964</o:Words>
-  <o:Characters>16900</o:Characters>
+  <o:Words>2968</o:Words>
+  <o:Characters>16918</o:Characters>
   <o:Lines>140</o:Lines>
   <o:Paragraphs>39</o:Paragraphs>
-  <o:CharactersWithSpaces>19825</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>19847</o:CharactersWithSpaces>
   <o:Version>15.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=3DthemeData href=3D"index_files/themedata.thmx">
-<link rel=3DcolorSchemeMapping href=3D"index_files/colorschememapping.xml">
+<link rel=3DthemeData href=3D"new-index_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping href=3D"new-index_files/colorschememapping.x=
+ml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
@@ -1161,8 +1162,8 @@ div.WordSection1
 	{page:WordSection1;}
  /* List Definitions */
  @list l0
-	{mso-list-id:557205457;
-	mso-list-template-ids:-662144138;}
+	{mso-list-id:970205115;
+	mso-list-template-ids:-1300824304;}
 @list l0:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1173,71 +1174,72 @@ div.WordSection1
 	font-family:Symbol;}
 @list l0:level2
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:o;
 	mso-level-tab-stop:1.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
 @list l0:level3
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:1.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l0:level4
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:2.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l0:level5
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:2.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l0:level6
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:3.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l0:level7
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:3.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l0:level8
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:4.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l0:level9
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
+	mso-level-text:\F0A7;
 	mso-level-tab-stop:4.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
+	font-family:Wingdings;}
 @list l1
-	{mso-list-id:970205115;
-	mso-list-template-ids:-1300824304;}
+	{mso-list-id:1006057838;
+	mso-list-template-ids:-1101632904;}
 @list l1:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1248,72 +1250,71 @@ div.WordSection1
 	font-family:Symbol;}
 @list l1:level2
 	{mso-level-number-format:bullet;
-	mso-level-text:o;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:1.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
+	font-family:Symbol;}
 @list l1:level3
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:1.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l1:level4
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:2.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l1:level5
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:2.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l1:level6
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:3.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l1:level7
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:3.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l1:level8
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:4.0in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l1:level9
 	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
+	mso-level-text:\F0B7;
 	mso-level-tab-stop:4.5in;
 	mso-level-number-position:left;
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
+	font-family:Symbol;}
 @list l2
-	{mso-list-id:1580750389;
-	mso-list-template-ids:-276149924;}
+	{mso-list-id:1345550311;
+	mso-list-template-ids:1240916470;}
 @list l2:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1567,20 +1568,22 @@ Arial'> &nbsp; <o:p></o:p></span></p>
 imes New Roman",serif;
 mso-bidi-font-family:Arial'>We recommend using either IntelliJ or <span
 class=3DSpellE>DrJava</span> as your Java IDE for all programming
-assignments.<span style=3D'mso-spacerun:yes'>  </span>You can download <span
-class=3DSpellE>DrJava</span> in the form of the executable jar file </span>=
-<span
-style=3D'font-family:Consolas'>drjava.jar</span><span style=3D'font-size:14=
-.0pt;
-mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font=
--family:
-Arial'> from <a href=3D"http://www.cs.rice.edu/~javaplt/drjavarice"><span
-style=3D'mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Tim=
-es New Roman"'>http://www.cs.rice.edu/~javaplt/drjavarice</span></a>.<span
-style=3D'mso-spacerun:yes'>  </span>When you accept the assignment, GitHub
-Classroom creates a repository for you that in initialized to contain all o=
-f the
-support files for the project including this project description.<span
+assignments.<span style=3D'mso-spacerun:yes'>  </span>You can download DrJa=
+va in
+the form of the executable jar file </span><span style=3D'font-family:Conso=
+las'>drjava.jar</span><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New =
+Roman",serif;
+mso-bidi-font-family:Arial'> from <a
+href=3D"http://www.cs.rice.edu/~javaplt/drjavarice"><span style=3D'mso-asci=
+i-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>http://www.cs.ri=
+ce.edu/~javaplt/drjavarice</span></a>.<span
+style=3D'mso-spacerun:yes'>  </span>When you accept the assignment, GitHub =
+Classroom
+creates a repository for you that in initialized to contain all of the supp=
+ort
+files for the project including this project description.<span
 style=3D'mso-spacerun:yes'>  </span><span class=3DSpellE>DrJava</span> only=
  runs
 using Java 8.<span style=3D'mso-spacerun:yes'>  </span>We recommend using t=
@@ -1596,7 +1599,7 @@ es'> 
 </span><span class=3DSpellE>DrJava</span> has been developed using builds t=
 he
 Oracle Java 8 SE, most recently build 8u331 and the various versions of the
-Java 8 JDK differ in minor respects. <span style=3D'mso-spacerun:yes'> </sp=
+Java 8 JDK differ in minor respects.<span style=3D'mso-spacerun:yes'>  </sp=
 an>If
 you use IntelliJ as your IDE, you can choose any compatible JDK.<span
 style=3D'mso-spacerun:yes'>  </span>Beware of the fact that the assignments=
@@ -1605,16 +1608,15 @@ submit must run from the command line and <i>cannot</i> place of the method=
 s in
 the specified API in named packages.<span style=3D'mso-spacerun:yes'>  </sp=
 an>If
-your program modifies the specified API (as stipulated in the assignment de=
-scription
-below and codified in the sample test suite Assign1Test.java) by placing th=
-e API
-methods in named packages, your program does not implement the specified API
-and all grading tests will fail.<span style=3D'mso-spacerun:yes'>  </span>Y=
-ou can
-confirm that your program supports the specified API by running the sample =
-test
-suite in Assign1Test.java.<o:p></o:p></span></p>
+your program modifies the specified API (as stipulated in the assignment
+description below and codified in the sample test suite Assign1Test.java) by
+placing the API methods in named packages, your program does not implement =
+the
+specified API and all grading tests will fail.<span style=3D'mso-spacerun:y=
+es'> 
+</span>You can confirm that your program supports the specified API by runn=
+ing
+the sample test suite in Assign1Test.java.<o:p></o:p></span></p>
 
 <p><span style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"T=
 imes New Roman",serif;
@@ -1902,10 +1904,11 @@ Arial'>The API That Your Program Must Support<o:p></o:p></span></h2>
 imes New Roman",serif;
 mso-bidi-font-family:Arial'>All classes visible in the API must be in the
 default (top-level) package. Using named packages will break our grading
-scripts, causing a catastrophic loss of points on the assignment. <span
-style=3D'mso-spacerun:yes'> </span>If your program passes the tests in the =
-file Assign1Test.java
-in the empty package, it conforms to this standard.<o:p></o:p></span></p>
+scripts, causing a catastrophic loss of points on the assignment.<span
+style=3D'mso-spacerun:yes'>  </span>If your program passes the tests in the=
+ file
+Assign1Test.java in the empty package, it conforms to this standard.<o:p></=
+o:p></span></p>
 
 <p><span style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"T=
 imes New Roman",serif;
@@ -2020,7 +2023,7 @@ font-family:Consolas'>ParseException</span></b></tt></span><span
 style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New =
 Roman",serif;
 mso-bidi-font-family:Arial'> containing a message explanation explaining the
-error. <span style=3D'mso-spacerun:yes'> </span>This operation will abort p=
+error.<span style=3D'mso-spacerun:yes'>  </span>This operation will abort p=
 arsing
 the program.<span style=3D'mso-spacerun:yes'>  </span>The parser in this
 assignment does not attempt to recover from syntax errors to continue parsi=
@@ -2043,14 +2046,15 @@ put
 language and the subset that your parser should recognize as legal Jam
 programs.<o:p></o:p></span></p>
 
-<p><strong><span style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-bi=
-di-font-family:
-Arial'>The Meta-Language</span></strong><span style=3D'font-size:14.0pt;
-mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font=
--family:
-Arial'> The parser's input language is described using Extended Backus-Naur
-Form (EBNF). When reading the notation, keep the following in mind:<o:p></o=
-:p></span></p>
+<p><strong><span style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-f=
+amily:
+"Arial",sans-serif'>The Meta-Language</span></strong><span style=3D'font-si=
+ze:
+14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
+mso-bidi-font-family:Arial'> The parser's input language is described using
+Extended Backus-Naur Form (EBNF). When reading the notation, keep the follo=
+wing
+in mind:<o:p></o:p></span></p>
 
 <ul type=3Ddisc>
  <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
@@ -2599,8 +2603,8 @@ span></p>
 <p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
  366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><=
 em><span
-style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-bidi-font-family:Ar=
-ial'>Expressions</span></em><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial",san=
+s-serif'>Expressions</span></em><span
 style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New =
 Roman",serif;
 mso-bidi-font-family:Arial'><o:p></o:p></span></p>
@@ -2653,9 +2657,8 @@ class=3DGramE>{ (</span> <span class=3DSpellE>ExpList</span> ) }<o:p></o:p>=
 </span></b></pre><pre><b
 style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:12.0pt;mso-b=
 idi-font-size:
-10.0pt;font-family:Consolas'><span style=3D'mso-spacerun:yes'>       </span=
-><span style=3D'mso-spacerun:yes'>       </span>| Empty<o:p></o:p></span></=
-b></pre><pre><b
+10.0pt;font-family:Consolas'><span style=3D'mso-spacerun:yes'>             =
+ </span>| Empty<o:p></o:p></span></b></pre><pre><b
 style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:12.0pt;mso-b=
 idi-font-size:
 10.0pt;font-family:Consolas'><span style=3D'mso-spacerun:yes'>             =
@@ -2725,8 +2728,8 @@ idi-font-size:
 <p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
  366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><=
 em><span
-style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-bidi-font-family:Ar=
-ial'>Definitions</span></em><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial",san=
+s-serif'>Definitions</span></em><span
 style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New =
 Roman",serif;
 mso-bidi-font-family:Arial'><o:p></o:p></span></p>
@@ -2746,8 +2749,8 @@ idi-font-size:
 <p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
  366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><=
 em><span
-style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-bidi-font-family:Ar=
-ial'>Primitive
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial",san=
+s-serif'>Primitive
 Constants, Operators, and Operations</span></em><span style=3D'font-size:14=
 .0pt;
 mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font=
@@ -2818,8 +2821,8 @@ s=3DGramE>cons</span> | first | rest | arity<o:p></o:p></span></b></pre>
 <p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
  366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><=
 em><span
-style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-bidi-font-family:Ar=
-ial'>Identifiers</span></em><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial",san=
+s-serif'>Identifiers</span></em><span
 style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New =
 Roman",serif;
 mso-bidi-font-family:Arial'><o:p></o:p></span></p>
@@ -2917,8 +2920,8 @@ mso-bidi-font-family:Arial'>.<o:p></o:p></span></p>
 <p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
  366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><=
 em><span
-style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-bidi-font-family:Ar=
-ial'>Numbers</span></em><span
+style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial",san=
+s-serif'>Numbers</span></em><span
 style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New =
 Roman",serif;
 mso-bidi-font-family:Arial'><o:p></o:p></span></p>
@@ -3043,8 +3046,8 @@ class=3DGramE>new</span> <span class=3DSpellE>BinOpApp</span>(new Op(&quot;=
 class=3DSpellE>IntConstant</span>(12))<o:p></o:p></span></b></pre><pre><b
 style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:12.0pt;mso-b=
 idi-font-size:
-10.0pt;font-family:Consolas'><span style=3D'mso-spacerun:yes'>   </span><sp=
-an style=3D'mso-spacerun:yes'>  </span>)<o:p></o:p></span></b></pre>
+10.0pt;font-family:Consolas'><span style=3D'mso-spacerun:yes'>     </span>)=
+<o:p></o:p></span></b></pre>
 
 <p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
  366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><=
@@ -3356,12 +3359,12 @@ style=3D'mso-ansi-font-size:12.0pt;font-family:Consolas'>while</span></b></=
 tt><span
 style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New =
 Roman",serif;
-mso-bidi-font-family:Arial'> loops for iteration and constructs the
-corresponding abstract syntax trees in a functional style (no mutation of t=
-rees
-in <span class=3DSpellE>theconstruction</span> process), your parser will
-naturally build syntax trees that are left-associative.<o:p></o:p></span></=
-p>
+mso-bidi-font-family:Arial'> loops for iteration and constructs the corresp=
+onding
+abstract syntax trees in a functional style (no mutation of trees in <span
+class=3DSpellE>theconstruction</span> process), your parser will naturally =
+build
+syntax trees that are left-associative.<o:p></o:p></span></p>
 
 <h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
 t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
@@ -3405,14 +3408,14 @@ mso-bidi-font-family:Arial'> file for your repository so that it<o:p></o:p>=
 <ul type=3Ddisc>
  <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
 lt:auto;
-     mso-list:l1 level1 lfo6;tab-stops:list .5in'><span style=3D'font-size:=
+     mso-list:l0 level1 lfo6;tab-stops:list .5in'><span style=3D'font-size:=
 14.0pt;
      mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
      mso-bidi-font-family:Arial'>outlines the organization of your program,=
  <o:p></o:p></span></li>
  <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
 lt:auto;
-     mso-list:l1 level1 lfo6;tab-stops:list .5in'><span style=3D'font-size:=
+     mso-list:l0 level1 lfo6;tab-stops:list .5in'><span style=3D'font-size:=
 14.0pt;
      mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
      mso-bidi-font-family:Arial'>specifies any compatible additions that you
@@ -3420,7 +3423,7 @@ lt:auto;
 </li>
  <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
 lt:auto;
-     mso-list:l1 level1 lfo6;tab-stops:list .5in'><span class=3DSpellE><span
+     mso-list:l0 level1 lfo6;tab-stops:list .5in'><span class=3DSpellE><span
      class=3DGramE><span style=3D'font-size:14.0pt;mso-bidi-font-size:12.0p=
 t;
      mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Arial'>=
@@ -3460,9 +3463,8 @@ span
 style=3D'font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New =
 Roman",serif;
 mso-bidi-font-family:Arial'>We do not recommend using separate test data fi=
-les
-because it creates more opportunities for incidental errors when testing yo=
-ur
+les because
+it creates more opportunities for incidental errors when testing your
 solution.<span style=3D'mso-spacerun:yes'>  </span>Unless you are testing h=
 ow
 well your program scales to large inputs, they are generally unnecessary.<s=
@@ -3474,9 +3476,9 @@ interface provided by the stub files in the provided support code. In other
 words, we should be able to compile and run your unit tests against a refer=
 ence
 solution used for grading, which has the same public interface as the suppo=
-rt code.
-Your test classes should be defined in files matching the pattern </span><t=
-t><b
+rt
+code. Your test classes should be defined in files matching the pattern </s=
+pan><tt><b
 style=3D'mso-bidi-font-weight:normal'><span style=3D'mso-ansi-font-size:12.=
 0pt;
 font-family:Consolas'>&quot;*Assign#Test.java&quot;</span></b></tt><span
@@ -3637,8 +3639,8 @@ you to slightly reformat your input strings.<o:p></o:p></span></p>
 
 </html>
 
-------=_NextPart_01D9272B.69157070
-Content-Location: file:///C:/D0C89D18/index_files/themedata.thmx
+------=_NextPart_01D9272D.D52FEE00
+Content-Location: file:///C:/20C89D18/new-index_files/themedata.thmx
 Content-Transfer-Encoding: base64
 Content-Type: application/vnd.ms-officetheme
 
@@ -3698,8 +3700,8 @@ ABQABgAIAAAAIQCqUiXfxgYAAIsaAAAWAAAAAAAAAAAAAAAAANYCAAB0aGVtZS90aGVtZS90aGVt
 ZTEueG1sUEsBAi0AFAAGAAgAAAAhAA3RkJ+2AAAAGwEAACcAAAAAAAAAAAAAAAAA0AkAAHRoZW1l
 L3RoZW1lL19yZWxzL3RoZW1lTWFuYWdlci54bWwucmVsc1BLBQYAAAAABQAFAF0BAADLCgAAAAA=
 
-------=_NextPart_01D9272B.69157070
-Content-Location: file:///C:/D0C89D18/index_files/colorschememapping.xml
+------=_NextPart_01D9272D.D52FEE00
+Content-Location: file:///C:/20C89D18/new-index_files/colorschememapping.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
 
@@ -3708,15 +3710,15 @@ Content-Type: text/xml
  bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
 2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
 ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
-------=_NextPart_01D9272B.69157070
-Content-Location: file:///C:/D0C89D18/index_files/filelist.xml
+------=_NextPart_01D9272D.D52FEE00
+Content-Location: file:///C:/20C89D18/new-index_files/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
 
 <xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef=3D"../index.htm"/>
+ <o:MainFile HRef=3D"../new-index.htm"/>
  <o:File HRef=3D"themedata.thmx"/>
  <o:File HRef=3D"colorschememapping.xml"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01D9272B.69157070--
+------=_NextPart_01D9272D.D52FEE00--
