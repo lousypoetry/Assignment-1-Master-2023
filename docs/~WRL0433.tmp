@@ -25,17 +25,17 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>Robert Cartwright</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Robert Cartwright</o:LastAuthor>
-  <o:Revision>5</o:Revision>
-  <o:TotalTime>414</o:TotalTime>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>382</o:TotalTime>
   <o:LastPrinted>2022-01-22T22:13:00Z</o:LastPrinted>
   <o:Created>2023-01-14T05:07:00Z</o:Created>
-  <o:LastSaved>2023-01-14T05:43:00Z</o:LastSaved>
+  <o:LastSaved>2023-01-14T05:11:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>2939</o:Words>
-  <o:Characters>16758</o:Characters>
+  <o:Words>2941</o:Words>
+  <o:Characters>16764</o:Characters>
   <o:Lines>139</o:Lines>
   <o:Paragraphs>39</o:Paragraphs>
-  <o:CharactersWithSpaces>19658</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>19666</o:CharactersWithSpaces>
   <o:Version>15.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -50,7 +50,7 @@ w\:* {behavior:url(#default#VML);}
   <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
-  <w:ValidateAgainstSchemas/>
+  <w:ValidateAgainstSchemas/> 
   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
   <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
   <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
@@ -1249,50 +1249,50 @@ Arial'> &nbsp; <o:p></o:p></span></p>
 <p><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'>We recommend using either IntelliJ or <span
 class=SpellE>DrJava</span> as your Java IDE for all programming assignments. <span
-style='mso-spacerun:yes'> </span>You can download <span class=SpellE>DrJava</span>
+style='mso-spacerun:yes'>Â </span>You can download <span class=SpellE>DrJava</span>
 in the form of the executable jar file </span><span style='font-family:Consolas'>drjava.jar</span><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'> from <a
 href="http://www.cs.rice.edu/~javaplt/drjavarice"><span style='mso-ascii-font-family:
 "Times New Roman";mso-hansi-font-family:"Times New Roman"'>http://www.cs.rice.edu/~javaplt/drjavarice</span></a>.<span
-style='mso-spacerun:yes'>  </span>When you accept the assignment, GitHub Classroom
+style='mso-spacerun:yes'>Â  </span>When you accept the assignment, GitHub Classroom
 creates a repository for you that in initialized to contain all of the support
 files for the project including this project description.<span
-style='mso-spacerun:yes'>  </span><span class=SpellE>DrJava</span> only runs
-using Java 8.<span style='mso-spacerun:yes'>  </span>We recommend using the
+style='mso-spacerun:yes'>Â  </span><span class=SpellE>DrJava</span> only runs
+using Java 8.<span style='mso-spacerun:yes'>Â  </span>We recommend using the
 Oracle Java 8 SE (build 8u331 or later) with <span class=SpellE>DrJava</span>; on
-Windows 10/12, <span class=SpellE>DrJava</span> appears to be slightly more
-reliable than other distributions of the Java 8 JDK such as <span class=SpellE>OpenJDK</span>
-8.<span style='mso-spacerun:yes'>  </span><span class=SpellE>DrJava</span> has
-been developed using builds the Oracle Java 8 SE, most recently build 8u331 and
-the various versions of the Java 8 JDK differ in minor respects.<span
-style='mso-spacerun:yes'>  </span>If you use IntelliJ as your IDE, you can
-choose any compatible JDK.<span style='mso-spacerun:yes'>  </span>Beware of the
-fact that the assignments you submit must run from the command line and <i>cannot</i>
-place of the methods in the specified API in named packages.<span
-style='mso-spacerun:yes'>  </span>If your program modifies the specified API
-(as stipulated in the assignment description below and codified in the sample
-test suite Assign1Test.java) by placing the API methods in named packages, your
-program does not implement the specified API and all grading tests will
-fail.<span style='mso-spacerun:yes'>  </span>You can confirm that your program
-supports the specified API by running the sample test suite in
-Assign1Test.java.<o:p></o:p></span></p>
+<span class=SpellE>Winddows</span> 10/12, <span class=SpellE>DrJava</span>
+appears to be slightly more reliable than other distributions of the Java 8 JDK
+such as <span class=SpellE>OpenJDK</span> 8.<span style='mso-spacerun:yes'>Â 
+</span><span class=SpellE>DrJava</span> has been developed using builds the
+Oracle Java 8 SE, most recently build 8u331 and the various versions of the
+Java 8 JDK differ in minor respects.<span style='mso-spacerun:yes'>Â  </span>If
+you use IntelliJ as your IDE, you can choose any compatible JDK.<span
+style='mso-spacerun:yes'>Â  </span>Beware of the fact that the assignments you
+submit must run from the command line and <i>cannot</i> place of the methods in
+the specified API in named packages.<span style='mso-spacerun:yes'>Â  </span>If
+your program modifies the specified API (as stipulated in the assignment
+description below and codified in the sample test suite Assign1Test.java) by
+placing the API methods in named packages, your program does not implement the
+specified API and all grading tests will fail.<span style='mso-spacerun:yes'>Â 
+</span>You can confirm that your program supports the specified API by running
+the sample test suite in Assign1Test.java.<o:p></o:p></span></p>
 
 <p><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'>Edit the </span><span style='font-family:Consolas'>README</span><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'> file for your repository to give an overview of
 your solution, most notably the API that it supports.<span
-style='mso-spacerun:yes'>  </span>We recommend that you place your Java source
+style='mso-spacerun:yes'>Â  </span>We recommend that you place your Java source
 files in the folder named </span><span class=SpellE><span style='font-family:
 Consolas'>src</span></span><span style='font-size:14.0pt;mso-bidi-font-size:
 12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:Arial'> that is
-already present in your repository.<span style='mso-spacerun:yes'>  </span>We
+already present in your repository.<span style='mso-spacerun:yes'>Â  </span>We
 also recommend placing your compiled class files in a separate folder named </span><span
 style='font-family:Consolas'>classes</span><span style='font-size:14.0pt;
 mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
 Arial'> that is already present in your repository.<span
-style='mso-spacerun:yes'>  </span>In <span class=SpellE>DrJava</span>, you can
+style='mso-spacerun:yes'>Â  </span>In <span class=SpellE>DrJava</span>, you can
 define a project with </span><span class=SpellE><span style='font-family:Consolas'>src</span></span><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'> as the source directory and </span><span
@@ -1302,7 +1302,7 @@ Arial'> as the folder where the compiler places the </span><span
 style='font-family:Consolas'>.class</span><span style='font-size:14.0pt;
 mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
 Arial'> files corresponding to the source program.<span
-style='mso-spacerun:yes'>  </span>Like more elaborate professional IDEs, <span
+style='mso-spacerun:yes'>Â  </span>Like more elaborate professional IDEs, <span
 class=SpellE>DrJava</span> supports compiling and testing projects.<o:p></o:p></span></p>
 
 <p><span class=SpellE><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt;
@@ -1331,7 +1331,7 @@ mso-bidi-font-family:Arial'> that </span><tt><span style='mso-ansi-font-size:
 12.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas'>drjava.jar</span></tt><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'> is located in the current directory.<span
-style='mso-spacerun:yes'>  </span><span class=SpellE>DrJava</span> is not a
+style='mso-spacerun:yes'>Â  </span><span class=SpellE>DrJava</span> is not a
 registered Mac application, so <span class=SpellE>DrJava</span> can only be run
 from the command line on Macs. On Windows machines (with a properly installed
 Java JDK 8), you can run the </span><tt><span style='mso-ansi-font-size:12.0pt;
@@ -1345,7 +1345,7 @@ mso-bidi-font-family:Arial'> files, then double-clicking </span><tt><span
 style='mso-ansi-font-size:12.0pt;mso-bidi-font-size:12.0pt;font-family:Consolas'>.jar</span></tt><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'> icons will not work. In this case, we recommend
-running <span class=SpellE>DrJava</span> inside the Windows “Command Prompt” or
+running <span class=SpellE>DrJava</span> inside the Windows Â“Command PromptÂ” or
 <span class=SpellE>Powershell</span> using the same command as shown above for
 Linux. <o:p></o:p></span></p>
 
@@ -1363,7 +1363,7 @@ Arial'> &nbsp; You are expected to write unit tests for all of your non-trivial
 methods or functions <em><span style='mso-bidi-font-family:Arial'>and submit
 your test code as part of your program</span></em>. <span class=SpellE>DrJava</span>
 provides integrated support for JUnit which makes this task easy.<span
-style='mso-spacerun:yes'>  </span>IntelliJ supports integrated testing using
+style='mso-spacerun:yes'>Â  </span>IntelliJ supports integrated testing using
 Junit as well.<o:p></o:p></span></p>
 
 <p><b><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
@@ -1373,11 +1373,13 @@ Arial'> &nbsp; Your task is to write a parser in Generic Java (Java 8+) that
 recognizes expressions in the pedagogic functional language Jam, which will be
 defined subsequently. The course staff has provided a <span class=SpellE>lexer</span>
 in Java for this assignment. This <span class=SpellE>lexer</span> returns a
-larger set of symbols (tokens) than what appears in the Jam Syntax Definition
-below. These extra symbols anticipate future extensions to Jam in later
-projects. At this point, your parser should simply reject any program
-containing one of these extra symbols as ill-formed, just like it would for any
-other syntax error.<o:p></o:p></span></p>
+larger set of symbols (tokens) than what appears in the <a
+href="Assignments/1/GitHub/Assignment-1.html#jam"><span style='mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman"'>Jam definition</span></a>.
+These extra symbols anticipate future extensions to Jam in later projects. At
+this point, your parser should simply reject any program containing one of
+these extra symbols as ill-formed, just like it would for any other syntax
+error.<o:p></o:p></span></p>
 
 <p><b><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'>Java Support Library</span></b><span
@@ -1445,7 +1447,7 @@ Arial'>The API That Your Program Must Support<o:p></o:p></span></h2>
 mso-bidi-font-family:Arial'>All classes visible in the API must be in the
 default (top-level) package. Using named packages will break our grading
 scripts, causing a catastrophic loss of points on the assignment.<span
-style='mso-spacerun:yes'>  </span>If your program passes the tests in the file
+style='mso-spacerun:yes'>Â  </span>If your program passes the tests in the file
 Assign1Test.java in the empty package, it conforms to this standard.<o:p></o:p></span></p>
 
 <p><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
@@ -1468,7 +1470,7 @@ font-family:Consolas'>Reader</span></b></tt><span style='font-size:14.0pt;
 mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
 Arial'> version of these constructors is very convenient when you are testing
 your parser from the <span class=SpellE>DrJava</span> read-<span class=SpellE>eval</span>-print
-loop or from unit test methods.<span style='mso-spacerun:yes'>  </span>The </span><b
+loop or from unit test methods.<span style='mso-spacerun:yes'>Â  </span>The </span><b
 style='mso-bidi-font-weight:normal'><span style='font-family:Consolas'>String</span></b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'> version supports parsing Jam programs that reside
@@ -1500,7 +1502,7 @@ mso-bidi-font-family:Arial'> methods are defined in the file </span><b
 style='mso-bidi-font-weight:normal'><span style='font-family:Consolas'>AST.java</span></b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'> in the empty package.<span
-style='mso-spacerun:yes'>  </span>All of these support files are located in the
+style='mso-spacerun:yes'>Â  </span>All of these support files are located in the
 folder </span><span class=SpellE><b style='mso-bidi-font-weight:normal'><span
 style='font-family:Consolas'>src</span></b></span><span style='font-size:14.0pt;
 mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
@@ -1513,14 +1515,14 @@ style='mso-bidi-font-weight:normal'><span style='mso-ansi-font-size:12.0pt;
 font-family:Consolas'>ParseException</span></b></tt></span><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'> containing a message explanation explaining the
-error.<span style='mso-spacerun:yes'>  </span>This operation will abort parsing
-the program.<span style='mso-spacerun:yes'>  </span>The parser in this
+error.<span style='mso-spacerun:yes'>Â  </span>This operation will abort parsing
+the program.<span style='mso-spacerun:yes'>Â  </span>The parser in this
 assignment does not attempt to recover from syntax errors to continue parsing.
 This behavior requires a complex specification including<a name=jam> many
 special cases, which is beyond the scope of this assignment.<o:p></o:p></a></span></p>
 
 <h2><span style='mso-bookmark:jam'><span style='mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:Arial'>Jam Syntax Definition<o:p></o:p></span></span></h2>
+mso-bidi-font-family:Arial'>Input Language Specification<o:p></o:p></span></span></h2>
 
 <span style='mso-bookmark:jam'></span>
 
@@ -1730,15 +1732,15 @@ font-family:Consolas'>Input</span></b></tt><span style='font-size:14.0pt;
 mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
 Arial'> where: <o:p></o:p></span></p>
 
-<pre style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Input :</span></b></span><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>:= Token*<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Token :</span></b></span><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>:= <span
-class=SpellE>AlphaOther</span> <span class=SpellE>AlphaOtherNumeric</span>* | Delimiter | Operator | <span
+<pre><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>Input :</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'>:= Token*<o:p></o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Token :</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'>:= <span class=SpellE>AlphaOther</span> <span
+class=SpellE>AlphaOtherNumeric</span>* | Delimiter | Operator | <span
 class=SpellE>Int</span><o:p></o:p></span></b></pre>
 
 <p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
@@ -1764,53 +1766,44 @@ style='mso-ansi-font-size:12.0pt;font-family:Consolas'>=</span></b></tt><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'>.<o:p></o:p></span></p>
 
-<pre style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Lower<span style='mso-spacerun:yes'>             </span>::</span></b></span><b
+<pre><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>Lower<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â  </span>::</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>= a | b | c | d | ... | z<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Upper<span style='mso-spacerun:yes'>             </span>::</span></b></span><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>= 'A' | 'B' | 'C' | 'D' | ... | 'Z'<span style='mso-spacerun:yes'>      </span><o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Other<span style='mso-spacerun:yes'>             </span>::</span></b></span><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>= ? | _<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Digit<span style='mso-spacerun:yes'>             </span>::</span></b></span><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>= 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Alpha<span style='mso-spacerun:yes'>             </span>::</span></b></span><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>= Upper | Lower<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>AlphaOther</span></b></span></span><span
+10.0pt;font-family:Consolas'>= a | b | c | d | ... | z<o:p></o:p></span></b></pre><pre><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
-mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>        </span>::</span></b></span><b
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Upper<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â  </span>::</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>= Alpha | Other<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
+10.0pt;font-family:Consolas'>= 'A' | 'B' | 'C' | 'D' | ... | 'Z'<span style='mso-spacerun:yes'>Â Â Â Â Â  </span><o:p></o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Other<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â  </span>::</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>AlphaOtherNumeric</span></b></span></span><span
+10.0pt;font-family:Consolas'>= ? | _<o:p></o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Digit<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â  </span>::</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'>= 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9<o:p></o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Alpha<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â  </span>::</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'>= Upper | Lower<o:p></o:p></span></b></pre><pre><span
+class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>AlphaOther</span></b></span></span><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>::</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'>= Alpha | Other<o:p></o:p></span></b></pre><pre><span
+class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>AlphaOtherNumeric</span></b></span></span><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
 mso-bidi-font-size:10.0pt;font-family:Consolas'> :</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>:= <span class=SpellE>AlphaOther</span> | Digit<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Delimiter<span style='mso-spacerun:yes'>         </span>::</span></b></span><b
+10.0pt;font-family:Consolas'>:= <span class=SpellE>AlphaOther</span> | Digit<o:p></o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Delimiter<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>::</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>= ( | ) | [ | ] | , | ;<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Operator<span style='mso-spacerun:yes'>     </span><span style='mso-spacerun:yes'>     </span>::</span></b></span><b
+10.0pt;font-family:Consolas'>= ( | ) | [ | ] | , | ;<o:p></o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Operator<span style='mso-spacerun:yes'>Â Â Â Â  </span><span style='mso-spacerun:yes'>Â Â Â Â Â </span>::</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
 10.0pt;font-family:Consolas'>= '+' | - | ~ | '*' | / | = | != | &lt; | &gt; | &lt;= | &gt;= | &amp; | '|' | :=<o:p></o:p></span></b></pre>
 
@@ -1857,149 +1850,132 @@ normal'><span style='mso-ansi-font-size:12.0pt;font-family:Consolas'> </span></b
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'>defined by the following grammar: <o:p></o:p></span></p>
 
-<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><em><b
-style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-size:
-12.0pt;font-family:"Arial",sans-serif'>Expressions</span></b></em><b
-style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-size:
-12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:Arial'><o:p></o:p></span></b></p>
+<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><em><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial",sans-serif'>Expressions</span></em><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
+mso-bidi-font-family:Arial'><o:p></o:p></span></p>
 
-<pre style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>Exp</span></b></span></span><span class=GramE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>         </span>::</span></b></span><b
+<pre><span class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>Exp</span></b></span></span><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>::</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
 10.0pt;font-family:Consolas'>= Term { <span class=SpellE>Binop</span> <span
-class=SpellE>Exp</span> }<o:p></o:p></span></b></pre><pre style='margin-left:
-45.8pt'><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
-mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>              </span>| <span
+class=SpellE>Exp</span> }<o:p></o:p></span></b></pre><pre><b style='mso-bidi-font-weight:
+normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
+Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>| <span
 class=GramE>if</span> <span class=SpellE>Exp</span> then <span class=SpellE>Exp</span> else <span
-class=SpellE>Exp</span><o:p></o:p></span></b></pre><pre style='margin-left:
-45.8pt'><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
-mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>              </span>| let Def+ in <span
-class=SpellE>Exp</span><o:p></o:p></span></b></pre><pre style='margin-left:
-45.8pt'><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
-mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>              </span>| map <span
-class=SpellE>IdList</span> to <span class=SpellE>Exp</span><o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
+class=SpellE>Exp</span><o:p></o:p></span></b></pre><pre><b style='mso-bidi-font-weight:
 normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Term<span style='mso-spacerun:yes'>        </span>::</span></b></span><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>= <span class=SpellE>Unop</span> Term<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>              </span>| Factor <span
-class=GramE>{ (</span> <span class=SpellE>ExpList</span> ) }<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>              </span>| Empty<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>              </span>| <span
-class=SpellE>Int</span><o:p></o:p></span></b></pre><pre style='margin-left:
-45.8pt'><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
-mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>              </span>| Bool<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
+Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>| let Def+ in <span
+class=SpellE>Exp</span><o:p></o:p></span></b></pre><pre><b style='mso-bidi-font-weight:
 normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Factor<span style='mso-spacerun:yes'>      </span>::</span></b></span><b
+Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>| map <span
+class=SpellE>IdList</span> to <span class=SpellE>Exp</span><o:p></o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Term<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>::</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>= ( <span class=SpellE>Exp</span> ) | Prim | Id<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
+10.0pt;font-family:Consolas'>= <span class=SpellE>Unop</span> Term<o:p></o:p></span></b></pre><pre><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>ExpList</span></b></span></span><span class=GramE><b
+10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>| Factor <span
+class=GramE>{ (</span> <span class=SpellE>ExpList</span> ) }<o:p></o:p></span></b></pre><pre><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>     </span>::</span></b></span><b
+10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>| Empty<o:p></o:p></span></b></pre><pre><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>= { <span class=SpellE>PropExpList</span> }<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
+10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>| <span
+class=SpellE>Int</span><o:p></o:p></span></b></pre><pre><b style='mso-bidi-font-weight:
+normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
+Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>| Bool<o:p></o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Factor<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>::</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>PropExpList</span></b></span></span><span
+10.0pt;font-family:Consolas'>= ( <span class=SpellE>Exp</span> ) | Prim | Id<o:p></o:p></span></b></pre><pre><span
+class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>ExpList</span></b></span></span><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â  </span>::</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'>= { <span class=SpellE>PropExpList</span> }<o:p></o:p></span></b></pre><pre><span
+class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>PropExpList</span></b></span></span><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
 mso-bidi-font-size:10.0pt;font-family:Consolas'> :</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
 10.0pt;font-family:Consolas'>:= <span class=SpellE>Exp</span> { , <span
-class=SpellE>Exp</span> }*<o:p></o:p></span></b></pre><pre style='margin-left:
-45.8pt'><span class=SpellE><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>IdList</span></b></span></span><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'><span style='mso-spacerun:yes'>      </span>::</span></b></span><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>= { <span class=SpellE>PropIdList</span> }<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>PropIdList</span></b></span></span><span
+class=SpellE>Exp</span> }*<o:p></o:p></span></b></pre><pre><span class=SpellE><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
-mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>  </span>:</span></b></span><b
+mso-bidi-font-size:10.0pt;font-family:Consolas'>IdList</span></b></span></span><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â  </span>::</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'>= { <span class=SpellE>PropIdList</span> }<o:p></o:p></span></b></pre><pre><span
+class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>PropIdList</span></b></span></span><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â  </span>:</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
 10.0pt;font-family:Consolas'>:= Id { , Id}*<o:p></o:p></span></b></pre>
 
-<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><em><b
-style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-size:
-12.0pt;font-family:"Arial",sans-serif'>Definitions</span></b></em><b
-style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-size:
-12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:Arial'><o:p></o:p></span></b></p>
-
-<pre><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
-mso-bidi-font-size:10.0pt;font-family:Consolas'><o:p>&nbsp;</o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Def :</span></b></span><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>:= Id := <span
-class=SpellE>Exp</span> ;<o:p></o:p></span></b></pre>
-
-<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><em><b
-style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-size:
-12.0pt;font-family:"Arial",sans-serif'>Primitive Constants, Operators, and
-Operations</span></b></em><b style='mso-bidi-font-weight:normal'><span
+<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><em><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial",sans-serif'>Definitions</span></em><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-bidi-font-family:Arial'> <o:p></o:p></span></b></p>
+mso-bidi-font-family:Arial'><o:p></o:p></span></p>
 
 <pre><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
-mso-bidi-font-size:10.0pt;font-family:Consolas'><o:p>&nbsp;</o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Empty :</span></b></span><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>:= empty<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Bool<span style='mso-spacerun:yes'>  </span>:</span></b></span><b
+mso-bidi-font-size:10.0pt;font-family:Consolas'><o:p>&nbsp;</o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Def :</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>:= true | false<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
+10.0pt;font-family:Consolas'>:= Id := <span class=SpellE>Exp</span> ;<o:p></o:p></span></b></pre>
+
+<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><em><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial",sans-serif'>Primitive
+Constants, Operators, and Operations</span></em><span style='font-size:14.0pt;
+mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
+Arial'> <o:p></o:p></span></p>
+
+<pre><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'><o:p>&nbsp;</o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Empty :</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>Unop</span></b></span></span><span class=GramE><b
+10.0pt;font-family:Consolas'>:= empty<o:p></o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Bool<span style='mso-spacerun:yes'>Â  </span>:</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>  </span>:</span></b></span><b
+10.0pt;font-family:Consolas'>:= true | false<o:p></o:p></span></b></pre><pre><span
+class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>Unop</span></b></span></span><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â  </span>:</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>:= Sign | ~<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Sign<span style='mso-spacerun:yes'>  </span>:</span></b></span><b
+10.0pt;font-family:Consolas'>:= Sign | ~<o:p></o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Sign<span style='mso-spacerun:yes'>Â  </span>:</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>:=<span style='mso-spacerun:yes'>  </span>'+' | -<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
+10.0pt;font-family:Consolas'>:=<span style='mso-spacerun:yes'>Â  </span>'+' | -<o:p></o:p></span></b></pre><pre><span
+class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>Binop</span></b></span></span><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'> :</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>Binop</span></b></span></span><span class=GramE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'> :</span></b></span><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>:= Sign | '*' | / | = | != | &lt; | &gt; | &lt;= | &gt;= | &amp; | '|'<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Prim<span style='mso-spacerun:yes'>  </span>:</span></b></span><b
+10.0pt;font-family:Consolas'>:= Sign | '*' | / | = | != | &lt; | &gt; | &lt;= | &gt;= | &amp; | '|'<o:p></o:p></span></b></pre><pre><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'>Prim<span style='mso-spacerun:yes'>Â  </span>:</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
 10.0pt;font-family:Consolas'>:= number? | function? | <span class=GramE>list</span>? | <span
 class=GramE>empty</span>? | <span class=GramE>cons</span>? | <span class=GramE>cons</span> | first | rest | arity<o:p></o:p></span></b></pre>
 
-<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><em><b
-style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-size:
-12.0pt;font-family:"Arial",sans-serif'>Identifiers</span></b></em><b
-style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-size:
-12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:Arial'><o:p></o:p></span></b></p>
+<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><em><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial",sans-serif'>Identifiers</span></em><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
+mso-bidi-font-family:Arial'><o:p></o:p></span></p>
 
-<pre style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>Id :</span></b></span><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>:= <span
-class=SpellE>AlphaOther</span> {<span class=SpellE>AlphaOther</span> | Digit}*<o:p></o:p></span></b></pre>
+<pre><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>Id :</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'>:= <span class=SpellE>AlphaOther</span> {<span
+class=SpellE>AlphaOther</span> | Digit}*<o:p></o:p></span></b></pre>
 
 <p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
@@ -2043,19 +2019,17 @@ normal'><span style='mso-ansi-font-size:12.0pt;font-family:Consolas'>false</span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'>.<o:p></o:p></span></p>
 
-<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><em><b
-style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-size:
-12.0pt;font-family:"Arial",sans-serif'>Numbers</span></b></em><b
-style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;mso-bidi-font-size:
-12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:Arial'><o:p></o:p></span></b></p>
+<p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><em><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Arial",sans-serif'>Numbers</span></em><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
+mso-bidi-font-family:Arial'><o:p></o:p></span></p>
 
-<pre style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
+<pre><span class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>Int</span></b></span></span><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'> :</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>Int</span></b></span></span><span class=GramE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'> :</span></b></span><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>:= Digit+<o:p></o:p></span></b></pre>
+10.0pt;font-family:Consolas'>:= Digit+<o:p></o:p></span></b></pre>
 
 <p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
@@ -2094,33 +2068,32 @@ style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",
 mso-bidi-font-family:Arial'>For example, suppose the Jam program under
 consideration is<o:p></o:p></span></p>
 
-<pre style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>f(</span></b></span><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>x) + (x * 12))<o:p></o:p></span></b></pre>
+<pre><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>f(</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'>x) + (x * 12))<o:p></o:p></span></b></pre>
 
 <p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'>The abstract syntax representation for this program
 phrase is:<o:p></o:p></span></p>
 
-<pre style='margin-left:45.8pt'><span class=GramE><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:
-Consolas'>new</span></b></span><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'> <span
-class=SpellE>BinOpApp</span>(<o:p></o:p></span></b></pre><pre style='margin-left:
-45.8pt'><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
-mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>       </span><span
-class=GramE>new</span> Op(&quot;+&quot;),<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>       </span><span
-class=GramE>new</span> App(new Variable(&quot;f&quot;), new AST[] { new Variable(&quot;x&quot;) }),<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>       </span><span
+<pre><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>new</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'> <span class=SpellE>BinOpApp</span>(<o:p></o:p></span></b></pre><pre><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span><span
+class=GramE>new</span> Op(&quot;+&quot;),<o:p></o:p></span></b></pre><pre><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span><span
+class=GramE>new</span> App(new Variable(&quot;f&quot;), new AST[] { new Variable(&quot;x&quot;) }),<o:p></o:p></span></b></pre><pre><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span><span
 class=GramE>new</span> <span class=SpellE>BinOpApp</span>(new Op(&quot;*&quot;), new Variable(&quot;x&quot;), new <span
-class=SpellE>IntConstant</span>(12))<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>     </span>)<o:p></o:p></span></b></pre>
+class=SpellE>IntConstant</span>(12))<o:p></o:p></span></b></pre><pre><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â  </span>)<o:p></o:p></span></b></pre>
 
 <p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
@@ -2181,11 +2154,10 @@ mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-fami
 Arial'> for our original grammar. Given our original Jam grammar, we can
 convert the production <o:p></o:p></span></p>
 
-<pre style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>Exp</span></b></span></span><span class=GramE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>         </span>::</span></b></span><b
+<pre><span class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>Exp</span></b></span></span><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>::</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
 10.0pt;font-family:Consolas'>= Term { <span class=SpellE>Binop</span> <span
 class=SpellE>Exp</span> } | ...<o:p></o:p></span></b></pre><pre><b
@@ -2199,19 +2171,17 @@ style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times
 mso-bidi-font-family:Arial'> <o:p></o:p></span></p>
 
 <pre><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
-mso-bidi-font-size:10.0pt;font-family:Consolas'><o:p>&nbsp;</o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>Exp</span></b></span></span><span class=GramE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>         </span>::</span></b></span><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>= <span class=SpellE>BinaryExp</span> | ...<o:p></o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>BinaryExp</span></b></span></span><span
+mso-bidi-font-size:10.0pt;font-family:Consolas'><o:p>&nbsp;</o:p></span></b></pre><pre><span
+class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>Exp</span></b></span></span><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
-mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>   </span>::</span></b></span><b
+mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>::</span></b></span><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt;font-family:Consolas'>= <span class=SpellE>BinaryExp</span> | ...<o:p></o:p></span></b></pre><pre><span
+class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>BinaryExp</span></b></span></span><span
+class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Consolas'><span style='mso-spacerun:yes'>Â Â  </span>::</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
 10.0pt;font-family:Consolas'>= Term { <span class=SpellE>Binop</span> <span
 class=SpellE>BinaryExp</span> }<o:p></o:p></span></b></pre><pre><b
@@ -2244,10 +2214,9 @@ mso-bidi-font-family:Arial'> generates the same set of strings as the extended
 rule: <o:p></o:p></span></p>
 
 <pre><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
-mso-bidi-font-size:10.0pt;font-family:Consolas'><o:p>&nbsp;</o:p></span></b></pre><pre
-style='margin-left:45.8pt'><span class=SpellE><span class=GramE><b
-style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
-10.0pt;font-family:Consolas'>BinaryExp</span></b></span></span><span
+mso-bidi-font-size:10.0pt;font-family:Consolas'><o:p>&nbsp;</o:p></span></b></pre><pre><span
+class=SpellE><span class=GramE><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:Consolas'>BinaryExp</span></b></span></span><span
 class=GramE><b style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;
 mso-bidi-font-size:10.0pt;font-family:Consolas'> :</span></b></span><b
 style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;mso-bidi-font-size:
@@ -2264,26 +2233,26 @@ When iteration is used to recognize a </span><span class=SpellE><tt><b
 style='mso-bidi-font-weight:normal'><span style='mso-ansi-font-size:12.0pt;
 font-family:Consolas'>BinaryExp</span></b></tt></span><span style='font-size:
 14.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:Arial'>, the parsing process can construct a
+mso-bidi-font-family:Arial'>, the parsing process will construct a
 left-associative tree since the tree is constructed left-to-right (each new </span><span
 class=SpellE><tt><b style='mso-bidi-font-weight:normal'><span style='mso-ansi-font-size:
 12.0pt;font-family:Consolas'>Binop</span></b></tt></span><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:Arial'> adds a new root to the AST).<span
-style='mso-spacerun:yes'>  </span>This convention make the syntax diagram
+style='mso-spacerun:yes'>Â  </span>This convention make the syntax diagram
 formulation of our Jam grammar deterministic and unambiguous.<o:p></o:p></span></p>
 
 <p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'>The file <a
-href="https://github.com/RiceComp411/Assignment-1-Master-2023/blob/master/docs/JamSyntaxDiagrams.pdf"><span
-class=SpellE><span style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
-"Times New Roman"'>JamSyntaxDiagrams</span></span></a> contains iterative
-syntax diagrams corresponding to the original left associative version of the
-Jam language, which precisely describes the syntax of Jam and how we want the
-parser to behave. Of course, this language eliminates a few quirky inputs from
-the language based on our original <span class=SpellE>grammmar</span>. Your
-parser should treat these quirky inputs as erroneous. <o:p></o:p></span></p>
+href="docs/Assignments/1/GitHub/SyntaxDiagrams.pdf"><span class=SpellE><span
+style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>SyntaxDiagrams</span></span></a>
+contains iterative syntax diagrams corresponding to the original left
+associative version of the Jam language, which precisely describes the syntax
+of Jam and how we want the parser to behave. Of course, this language
+eliminates a few quirky inputs from the language based on our original <span
+class=SpellE>grammmar</span>. Your parser should treat these quirky inputs as
+erroneous. <o:p></o:p></span></p>
 
 <p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
@@ -2325,9 +2294,9 @@ mso-bidi-font-family:Arial'>The </span><span class=SpellE><span
 style='font-family:Consolas'>src</span></span><span style='font-size:14.0pt;
 mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;mso-bidi-font-family:
 Arial'> folder in the provided code base includes some Junit4 test classes
-which are not comprehensive.<span style='mso-spacerun:yes'>  </span>You need to
+which are not comprehensive.<span style='mso-spacerun:yes'>Â  </span>You need to
 add more test cases; you need to check every production in the grammar.<span
-style='mso-spacerun:yes'>  </span>If a production involves iteration or
+style='mso-spacerun:yes'>Â  </span>If a production involves iteration or
 recursion, you need to test the base cases as well as simple inductive
 constructions.<o:p></o:p></span></p>
 
@@ -2360,11 +2329,11 @@ mso-bidi-font-family:Arial'> file for your repository so that it<o:p></o:p></spa
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:Arial'>Note that the README file is a GitHub “<span
-class=SpellE>MarkDown</span>” file, text augmented by a few simple formatting
-annotations.<span style='mso-spacerun:yes'>  </span><span class=SpellE>MarkDown</span>
+mso-bidi-font-family:Arial'>Note that the README file is a GitHub Â“<span
+class=SpellE>MarkDown</span>Â” file, text augmented by a few simple formatting
+annotations.<span style='mso-spacerun:yes'>Â  </span><span class=SpellE>MarkDown</span>
 (MD) is much less powerful than HTML but much easier to use.<span
-style='mso-spacerun:yes'>  </span>The webpage <b style='mso-bidi-font-weight:
+style='mso-spacerun:yes'>Â  </span>The webpage <b style='mso-bidi-font-weight:
 normal'><a
 href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"><span
 style='mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>markdown-cheat-sheet</span></a></b>
@@ -2375,9 +2344,9 @@ reference.<o:p></o:p></span></p>
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'>We do not recommend using separate test data files
 because it creates more opportunities for incidental errors when testing your
-solution.<span style='mso-spacerun:yes'>  </span>Unless you are testing how
+solution.<span style='mso-spacerun:yes'>Â  </span>Unless you are testing how
 well your program scales to large inputs, they are generally unnecessary.<span
-style='mso-spacerun:yes'>  </span>All JUnit test classes submitted for grading
+style='mso-spacerun:yes'>Â  </span>All JUnit test classes submitted for grading
 should be compatible with a generic solution that conforms to the public
 interface provided by the stub files in the provided support code. In other
 words, we should be able to compile and run your unit tests against a reference
@@ -2413,7 +2382,7 @@ style='mso-ansi-font-size:12.0pt;font-family:Consolas'>&quot;*AssignAllTestSuppo
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
 mso-bidi-font-family:Arial'>, which can contain common test support code that
 can be reused across multiple assignment submissions without needing to rename
-the file.<span style='mso-spacerun:yes'>  </span>Note that our class solutions
+the file.<span style='mso-spacerun:yes'>Â  </span>Note that our class solutions
 to the assignments do not rely on such utility classes.<o:p></o:p></span></p>
 
 <p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
@@ -2425,9 +2394,9 @@ that form.<o:p></o:p></span></p>
 
 <p style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-bidi-font-family:Arial'>You obviously do not need to “submit” your program,
+mso-bidi-font-family:Arial'>You obviously do not need to Â“submitÂ” your program,
 since you are creating it inside a repository on the ownership of the course
-staff.<span style='mso-spacerun:yes'>  </span>We can easily access all student
+staff.<span style='mso-spacerun:yes'>Â  </span>We can easily access all student
 repositories.<o:p></o:p></span></p>
 
 <!-- ONLY WORKS IN BASH
