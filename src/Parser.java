@@ -13,9 +13,7 @@ class Parser {
   
   private Lexer in;
   
-  Parser(Lexer i) {
-    in = i;
-  }
+  Parser(Lexer i) { in = i; }
   
   Parser(Reader inputStream) { this(new Lexer(inputStream)); }
   
@@ -23,7 +21,6 @@ class Parser {
   
   Lexer lexer() { return in; }
   
-
   /** Parses a Jam program which is simply an expression (Exp) */
   public AST parse() throws ParseException {
     /* your code goes here */

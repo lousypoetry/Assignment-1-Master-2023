@@ -13,8 +13,8 @@ public class Assign1Test extends TestCase {
   }
   
   protected void checkFile(String name, 
-      String answerFilename,
-      String programFilename) {
+    String answerFilename,
+    String programFilename) {
     try {
       File answerFile = new File(answerFilename);
       InputStream fin = new BufferedInputStream(new FileInputStream(answerFile));
