@@ -1,4 +1,4 @@
-
+/** Parser for Assignment 2 */
 
 import java.io.*;
 import java.util.*;
@@ -153,7 +153,7 @@ class Parser {
     }
 
     // Parse the alternative expression to be executed if the condition is false
-    AST alternative = parseExp();
+    AST alternative = parseExp()
 
     // Construct and return the If AST node with the parsed components
     return new If(condition, consequent, alternative);
@@ -184,7 +184,7 @@ class Parser {
 
   private AST[] parseExps(Token separator, Token delimiter) {
     // Initialize a list to store the parsed expressions
-    LinkedList<AST> expressions = new LinkedList<AST>();
+    LinkedList<AST> expressions = new LInkedList<AST>();
     Token nextToken = in.peek(); // Look at the next token without consuming it
 
     // If the next token is the delimiter, consume it and return an empty array
@@ -315,9 +315,9 @@ public static void main(String[] args) throws IOException {
   Parser parser = new Parser(args[0]);
 
   // Parse the input file and obtain the AST
-  AST program = parser.parse();
+  AST program = parser.parse
 
-}
+
 
   
   /* Many more parse methods follow.  I suggest defining separate parse methods for parsing

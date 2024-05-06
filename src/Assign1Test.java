@@ -11,29 +11,6 @@ public class Assign1Test extends TestCase {
     Parser p = new Parser(new StringReader(program));
     assertEquals(name, answer, p.parse().toString());
   }
-  
-  protected void checkFile(String name, 
-    String answerFilename,
-    String programFilename) {
-    try {
-      File answerFile = new File(answerFilename);
-      InputStream fin = new BufferedInputStream(new FileInputStream(answerFile));
-      
-      int size = (int) answerFile.length();
-      byte[] data = new byte[size];
-      fin.read(data,0,size);
-      String answer = new String(data);
-      
-      
-      Parser p = new Parser(programFilename);
-      assertEquals(name, answer, p.parse().toString());      
-    } 
-    catch (IOException e) {
-      fail("Critical error: IOException caught while reading input file");
-//      e.printStackTrace();
-    }
-    
-  }
 
   public void testAdd() {
     try {

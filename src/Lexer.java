@@ -47,7 +47,7 @@ class Lexer extends StreamTokenizer {
   public static final OpToken AND = OpToken.newBinOpToken(OpAnd.ONLY);
   public static final OpToken OR = OpToken.newBinOpToken(OpOr.ONLY);
   
-  /* Used to support reference cells. */
+  /* Used to support reference cells in a later project. */
 //  public static final OpToken BANG = OpToken.newUnOpToken(OpBang.ONLY);
 //  public static final OpToken GETS = OpToken.newBinOpToken(OpGets.ONLY);
 //  public static final OpToken REF = OpToken.newUnOpToken(OpRef.ONLY);
@@ -58,7 +58,7 @@ class Lexer extends StreamTokenizer {
   public static final KeyWord THEN   = new KeyWord("then");
   public static final KeyWord ELSE   = new KeyWord("else");
   public static final KeyWord LET    = new KeyWord("let");
-//  public static final KeyWord LETREC = new KeyWord("letrec");   // Used to support letrec extension
+//  public static final KeyWord LETREC = new KeyWord("letrec");   // Used to support letrec extension in later project
   public static final KeyWord IN     = new KeyWord("in");
   public static final KeyWord MAP    = new KeyWord("map");
   public static final KeyWord TO     = new KeyWord("to");
@@ -174,7 +174,7 @@ class Lexer extends StreamTokenizer {
       case ')': return RightParen.ONLY;
       case '[': return LeftBrack.ONLY;
       case ']': return RightBrack.ONLY;
-      // case '{': return LeftBrace.ONLY;
+      // case '{': return LeftBrace.ONLY;  /* used to support blocks in a later project */
       // case '}': return RightBrace.ONLY;
       case ',': return Comma.ONLY;
       case ';': return SemiColon.ONLY;
@@ -189,7 +189,7 @@ class Lexer extends StreamTokenizer {
       case '<': 
         tokenType = getToken();
         if (tokenType == '=') return LESS_THAN_EQUALS;  
-//      if (tokenType == '-') return GETS;    // Used to support reference cells
+//      if (tokenType == '-') return GETS;    /* Used to support reference cells in a later project */
         pushBack();
         return LESS_THAN; 
         
@@ -201,11 +201,11 @@ class Lexer extends StreamTokenizer {
         
       case '!': 
         tokenType = getToken();
-        if (tokenType == '=') return NOT_EQUALS; 
-        pushBack();		
-        throw new ParseException("'!' is not a legal token"); 
+        if (tokenType == '=') return NOT_EQUALS;  
+        else throw new ParseException("!" + ((char) tokenType) + " is not a legal token"); 
         
-        /* this alternate line replaces the preceding code line to support reference cells */
+        /* this alternate else clause supports operations on reference cells in later projects */
+//        pushBack();
 //        return BANG;  
      
       case '&': return AND;  
@@ -217,7 +217,8 @@ class Lexer extends StreamTokenizer {
         throw new ParseException("':' is not a legal token");
       }
       default:  
-        throw new ParseException("'" + ((char) tokenType) + "' is not a legal token");
+        throw new 
+        ParseException("'" + ((char) tokenType) + "' is not a legal token");
     }
   }
     
@@ -242,7 +243,7 @@ class Lexer extends StreamTokenizer {
     wordTable.put("list?",     ListPPrim.ONLY);
     wordTable.put("empty?",    EmptyPPrim.ONLY);
     wordTable.put("cons?",     ConsPPrim.ONLY);
-//    wordTable.put("ref?",      RefPPrim.ONLY);  // used to support reference cells
+//    wordTable.put("ref?",      RefPPrim.ONLY);  /* used in a later project to support reference cells */
     wordTable.put("arity",     ArityPrim.ONLY);  
     wordTable.put("cons",      ConsPrim.ONLY);
     wordTable.put("first",     FirstPrim.ONLY);
